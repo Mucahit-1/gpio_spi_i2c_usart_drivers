@@ -2,7 +2,7 @@
  * stm32f407xx_usart_driver.h
  *
  *  Created on: Jul 19, 2023
- *      Author: riyad
+ *      Author: mucahit
  */
 
 #ifndef INC_STM32F407XX_USART_DRIVER_H_
