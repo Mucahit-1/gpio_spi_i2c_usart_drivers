@@ -2,7 +2,7 @@
  * stm32f407xx.h
  *
  *  Created on: Jun 27, 2023
- *      Author: riyad
+ *      Author: mucahit
  */
 
 #ifndef INC_STM32F407XX_H_
