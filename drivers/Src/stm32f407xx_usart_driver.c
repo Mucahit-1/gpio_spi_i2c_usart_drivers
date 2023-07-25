@@ -2,7 +2,7 @@
  * stm32f407xx_usart_driver.c
  *
  *  Created on: Jul 19, 2023
- *      Author: riyad
+ *      Author: mucahit
  */
 #include "stm32f407xx_usart_driver.h"
 #include "stm32f407xx_rcc_driver.h"
