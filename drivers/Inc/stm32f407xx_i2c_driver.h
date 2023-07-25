@@ -2,7 +2,7 @@
  * stm32f407xx_i2c_driver1.h
  *
  *  Created on: Jul 17, 2023
- *      Author: riyad
+ *      Author: mucahit
  */
 
 #ifndef SRC_STM32F407XX_I2C_DRIVER_H_
