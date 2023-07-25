@@ -2,7 +2,7 @@
  * stm32f407xx_spi_driver.c
  *
  *  Created on: Jul 7, 2023
- *      Author: riyad
+ *      Author: mucahit
  */
 
 #include "stm32f407xx_spi_driver.h"
