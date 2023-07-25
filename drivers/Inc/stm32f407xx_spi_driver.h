@@ -2,7 +2,7 @@
  * stm32f407xx_spi_driver.h
  *
  *  Created on: Jul 7, 2023
- *      Author: riyad
+ *      Author: mucahit
  */
 
 #ifndef INC_STM32F407XX_SPI_DRIVER_H_
