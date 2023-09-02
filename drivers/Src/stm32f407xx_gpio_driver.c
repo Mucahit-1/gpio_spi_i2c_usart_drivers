@@ -220,7 +220,7 @@ void GPIO_WriteToOutputPort(GPIO_RegDef_t *pGPIOx, uint16_t value) {
 
 void GPIO_ToggleOutputPin(GPIO_RegDef_t *pGPIOx, uint8_t PinNumber) {
 
-	pGPIOx->ODR ^= (1 << PinNumber); // هاد القسم مافهمتو بعدين حدور عشرحو
+	pGPIOx->ODR ^= (1 << PinNumber);
 
 }
 
@@ -273,7 +273,7 @@ void GPIO_IRQPriorityConfig(uint8_t IRQNumber, uint32_t IRQPriority) {
 
 }
 
-void GPIO_IRQHandling(uint8_t PinNumber) { // هاد القسم ماكتير فهمتو بشوفو بعدين شرحو بالفيديو114
+void GPIO_IRQHandling(uint8_t PinNumber) { 
 
 	//clear the EXTI PR register
 	if (EXTI->PR & (1 << PinNumber)) {
